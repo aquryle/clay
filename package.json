@@ -1,0 +1,21 @@
+{
+  "name": "clay",
+  "displayName": "clay",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "clay",
+        "uiTheme": "vs",
+        "path": "./themes/clay-color-theme.json"
+      }
+    ]
+  }
+}
